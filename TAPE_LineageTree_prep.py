@@ -1,5 +1,12 @@
+# Update in 2022.07.04: This script was used only in the preprint, and not in the revised and peer-reviewed manuscript, 
+# because we substituted previous bulk lineage tracing experiment with single-cell RNA-seq assay.
+
+
+
+
 # 2021.09.15 Python script to generate bigram matrix, unigram order, and bigram order for 5xTAPE-1 experiments
 # Start with 16 PCR replicates of paired-end sequencing files (post UMI-amplicon collapsing)
+
 
 # importing tools
 import gzip
